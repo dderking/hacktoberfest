@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Juan Silva](https://github.com/dderking)
+- Place: Paraíba, Brazil
+- Bio: Web developer Java and Python
+- Github: [Juan Silva](https://github.com/dderking)
